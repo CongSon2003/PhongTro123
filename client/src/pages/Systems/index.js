@@ -1,0 +1,6 @@
+export{default as System} from './System'
+export{default as CreatePost} from './CreatePost'
+export{default as HeaderSystem} from './HeaderSystem'
+export{default as SideBarSystem} from './SideBarSystem'
+export{default as Breadcrumb} from './Breadcrumb'
+export{default as ManagerPost} from './ManagerPost'

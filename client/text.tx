@@ -1,0 +1,4 @@
+/ ... / : là cú pháp để tạo một biểu thức chính quy trong JavaScript.
+[^...] : đại diện cho một nhóm các ký tự không được liệt kê trong dấu ngoặc vuông.
+\d : tượng trưng cho bất kỳ ký tự số nào (0-9).
+g : là cờ để thực hiện tìm kiếm toàn bộ chuỗi, không chỉ dừng lại sau lần xuất hiện đầu tiên.

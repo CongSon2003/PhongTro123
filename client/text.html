@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Click Effect</title>
+  <style>
+    .heart-container {
+        position: relative;
+        width: 100px;
+        height: 100px;
+        margin: 100px auto;
+      }
+      
+      .heart {
+        width: 50px;
+        height: 50px;
+        background-color: red;
+        position: absolute;
+        top: 0;
+        animation: heartBeat 1s infinite ease-in-out;
+        cursor: pointer;
+        transition: transform 0.1s ease-in-out;
+      }
+      
+      @keyframes heartBeat {
+        0% {
+          transform: scale(0.8);
+        }
+        20% {
+          transform: scale(1);
+        }
+        40% {
+          transform: scale(0.8);
+        }
+        60% {
+          transform: scale(1);
+        }
+        80% {
+          transform: scale(0.8);
+        }
+        100% {
+          transform: scale(0.8);
+        }
+      }
+      
+      .heart.liked {
+        transform: scale(1.3);
+      }
+      
+  </style>
+</head>
+<body>
+  <div class="heart-container">
+    <div class="heart"></div>
+  </div>
+  <script src="script.js">
+    document.querySelector('.heart').addEventListener('click', function() {
+        this.classList.add('liked');
+        setTimeout(() => {
+          this.classList.remove('liked');
+        }, 500);
+      });
+      
+  </script>
+</body>
+</html>
