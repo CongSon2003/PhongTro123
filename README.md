@@ -6,6 +6,7 @@
 ✅ Trang chủ
 
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/5483f03a-0312-446c-803c-783a1dbcad7e" />
+<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/10a64a2b-1adf-45e6-b3ae-b5b27d6feb47" />
 
 ✅ Trang chi tiết phòng
 
