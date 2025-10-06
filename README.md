@@ -2,12 +2,19 @@
 
   Phòng Trọ 123 là một ứng dụng/website hỗ trợ người dùng tìm kiếm, đăng và quản lý phòng trọ một cách nhanh chóng và tiện lợi. Dự án được xây dựng nhằm giúp sinh viên, người đi làm và chủ trọ kết nối hiệu quả hơn.
 📸 Giao diện demo (ví dụ)
+
 ✅ Trang chủ
+
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/5483f03a-0312-446c-803c-783a1dbcad7e" />
+
 ✅ Trang chi tiết phòng
+
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/6092476d-5426-4e79-919a-031ed5d72fc7" />
+
 ✅ Trang đăng phòng
+
 <img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/14df4ccd-f878-481d-a27a-6f8cae7c76fe" />
+
 🚀 Tính năng chính
 
   🔍 Tìm kiếm phòng theo khu vực, giá, diện tích
